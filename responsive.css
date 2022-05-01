@@ -1,0 +1,19 @@
+@media  only screen and (max-width: 900px) {
+    .gameContainer{
+        flex-direction: column;
+    }
+    .container{
+        padding: 5vh 30vw;
+    }
+    .info{
+        margin: auto;
+    }
+    .img img{
+        padding: 10px 12vw;
+    }
+}
+@media  only screen and (max-width: 420px) {
+    .info h2{
+        font-size: 5vw;
+    } 
+}
